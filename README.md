@@ -5,13 +5,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+ 
   </a>
 
   <h3 align="center">Firestore-Online</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -26,31 +26,7 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+
 
 
 
@@ -59,14 +35,17 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Hola, este poyecto es una pequeña iniciativa de crear una tienda en linea donde se puedan comercializar todo tipo de productos de jardineria y cultivos pero aun esta en proceso, a continuaciones les explicare cuales fueron mis avances para poder entregar el proyecto:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* Cree los componentes necesarios para poder tener al menos una vista del sitio web
+* Me enfoque principalmente en la seccion de usuarios y bases de datos para lograr darle un uso a Firebase
+* Mediante estos metodos logre que se pudieran almacenar los usuarios en las bases de datos de Firebase
+*  Aunque aun me falta la seccion de productos y compras creeo que fue un gran avance.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Cabe mencionar que tuve problemas con mi antiguo repositorio en el que habia estado haciendo los commits durante estos dias, aparecio mi carpeta principal con una flecha y no me permitia acceder a ella por lo que tuve que commitear todo de nueva cuenta en un repositorio nuevo.
+
+
+Si bien al proyecto le faltan algunos aspectos a evaluar, espero que me den la oportunidad de poder continuarlo para asi lograr aprobar el curso.
 
 Use the `BLANK_README.md` to get started.
 
