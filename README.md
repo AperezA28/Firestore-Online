@@ -15,7 +15,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Acerca del proyecto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Hola, este poyecto es una pequeña iniciativa de crear una tienda en linea donde se puedan comercializar todo tipo de productos de jardineria y cultivos pero aun esta en proceso, a continuaciones les explicare cuales fueron mis avances para poder entregar el proyecto:
 
