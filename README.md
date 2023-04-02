@@ -1,8 +1,10 @@
 
 <br Esto es el proyecto final de la clase de REACT JS por CODERHOUSE />
-<div align="center">
+<div align="center">![Logo](https://user-images.githubusercontent.com/113397309/229332032-47b965db-c5ae-48fc-a1c4-c3d9d5b65e51.png)
+
   <a href="https://github.com/AperezA28/Firestore-Online.git">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+   ![Uploading Logo.png…]()
+
   </a>
 
 <h3 align="center">project_title</h3>
