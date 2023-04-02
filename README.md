@@ -9,7 +9,7 @@
 
   <p align="center">
     project_description
-    <br />
+    <br Esto es el proyecto final de la clase de REACT JS por CODERHOUSE />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
