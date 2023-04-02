@@ -1,7 +1,7 @@
 
 <br Esto es el proyecto final de la clase de REACT JS por CODERHOUSE />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/AperezA28/Firestore-Online.git">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
